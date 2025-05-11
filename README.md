@@ -1,4 +1,5 @@
-@@ -0,0 +1,3 @@
-#!/bin/bash
-echo "Welcome to Level 14"
-echo "Decode this string: U3VjY2Vzc0lzTmV2ZXJGaW5hbA=="
+CyberCrack: A Red Team Simulation Toolkit for Beginner-Level CTF and Ethical Hacking Practice
+Problem Statement
+CyberCrack is a Linux-based Red Team simulation project built for cybersecurity learners. It provides 15 progressively difficult CTF-style challenges, helping beginners understand core ethical hacking concepts such as file permissions, privilege escalation, and real-world Red Team tactics. Inspired by OverTheWire’s wargames (Krypton, Natas, Leviathan), this toolkit serves as a hands-on learning environment for aspiring cybersecurity professionals.
+Setup Instructions
+Step 1: Clone the Repository
